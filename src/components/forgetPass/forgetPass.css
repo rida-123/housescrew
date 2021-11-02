@@ -1,0 +1,13 @@
+.back{
+    background-color:#506292;
+ width: 100%;
+ padding: 40px;
+}
+.contain{
+    background-color: white;
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    padding-top: 40px;
+    
+}
